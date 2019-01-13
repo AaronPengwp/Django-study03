@@ -1,2 +1,4 @@
 def learn():
-    print("first comiit")
+    print("First Comiit")
+    print("new dev")
+    print("changed dev")
